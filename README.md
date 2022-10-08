@@ -3,7 +3,7 @@
 
 - 👌 一名兴趣使然的程序猿～
 - 👨‍💻 区块链/金融科技/数据开发/爬虫
-- 💬 微信：yuyumyfate
+- 💬 微信：bestboyofchn
 - 🤔 问题：<a href="https://www.zhihu.com/people/silver-bell-" target="_blank">知乎 @李和邪</a>
 
 ## summary ✨
