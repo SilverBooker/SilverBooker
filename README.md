@@ -6,6 +6,7 @@
 - 👌 一名因兴趣而投身编程的世界探索者
 - 👨‍💻 专注于区块链、金融科技、数据开发与爬虫技术
 - 💬 微信：bestboyofchn
+- 🤔 问题：<a href="https://www.zhihu.com/people/silver-bell- " target="_blank">知乎 @李和邪</a>
 
 ### Property
 - 👌 A programming enthusiast driven by passion
